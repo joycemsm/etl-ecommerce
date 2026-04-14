@@ -16,8 +16,8 @@ Data arrives as raw CSV files and is progressively refined until it is ready for
 
 | Language | File |
 |---|---|
-| 🇧🇷 Portuguese | [ShopBR_AWS-PT.pdf](./ShopBR_AWS-PT.pdf) |
-| 🇺🇸 English | [ShopBR_AWS-EN.pdf](./ShopBR_AWS-EN.pdf) |
+| 🇧🇷 Portuguese | [ShopBR_AWS-PT.pdf](ShopBR_AWS-PT.pdf) |
+| 🇺🇸 English | [ShopBR_AWS-EN.pdf](ShopBR_AWS-EN.pdf) |
 
 ---
 
