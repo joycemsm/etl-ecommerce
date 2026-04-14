@@ -218,5 +218,4 @@ LIMIT 5;
 -  Create saved Views in Athena for the business team
 -  Configure CloudWatch alerts for pipeline failures
 
-
-e · AWS `us-east-1`
+Thanks!
