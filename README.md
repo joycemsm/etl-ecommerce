@@ -1,4 +1,4 @@
-# ShopBR — AWS Data Pipeline
+# ShopBR: AWS Data Pipeline
 
 > Serverless data pipeline for a fictitious e-commerce, following the **Medallion Architecture** (Bronze → Silver → Gold) on AWS.
 
@@ -16,8 +16,8 @@ Data arrives as raw CSV files and is progressively refined until it is ready for
 
 | Language | File |
 |---|---|
-| 🇧🇷 Portuguese | `ShopBR_AWS-PT.pdf` |
-| 🇺🇸 English | `ShopBR_AWS-EN.pdf` |
+| 🇧🇷 Portuguese | [ShopBR_AWS-PT.pdf](./ShopBR_AWS-PT.pdf) |
+| 🇺🇸 English | [ShopBR_AWS-EN.pdf](./ShopBR_AWS-EN.pdf) |
 
 ---
 
@@ -198,7 +198,7 @@ LIMIT 5;
 
 ---
 
-## ⚙️ Technical Decisions
+## Technical Decisions
 
 | Decision | Rationale |
 |---|---|
@@ -209,7 +209,7 @@ LIMIT 5;
 
 ---
 
-## 🚀 Next Steps
+## Next Steps
 
 -  Migrate to region `sa-east-1` (São Paulo) for lower latency in Brazil
 -  Set up VPC and granular IAM with least-privilege roles per service
